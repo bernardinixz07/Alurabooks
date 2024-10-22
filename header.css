@@ -6,3 +6,6 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+.lista-menu {
+    display: none;
+  }
